@@ -1,0 +1,77 @@
+{
+    "interest": [
+        "XLRE",
+        "IWM",
+        "DHI",
+        "XLU"
+    ],
+    "commodity": [
+        "XLE",
+        "XME",
+        "GDX",
+        "OXY"
+    ],
+    "tech": [
+        "GOOG",
+        "TSLA",
+        "MSFT",
+        "AMD",
+        "NVDA",
+        "TSM",
+        "SOXX",
+        "QQQ",
+        "SPY",
+        "XLK",
+        "ASML"
+    ],
+    "consumption": [
+        "RTX",
+        "LMT",
+        "WM",
+        "XLV",
+        "COST",
+        "TGT",
+        "XRT",
+        "XLP",
+        "XLY",
+        "NKE",
+        "LULU",
+        "DIS"
+    ],
+    "finance": [
+        "BRK-B",
+        "XLF",
+        "IWM"
+    ],
+    "Dec_Watch": [
+        "IBIT",
+        "GOOG",
+        "CRM",
+        "SPY",
+        "QQQ",
+        "LRCX",
+        "MRVL",
+        "TSM",
+        "OXY",
+        "DHI",
+        "XLE",
+        "TLT",
+        "XRT",
+        "RTH",
+        "TSLA",
+        "TSM",
+        "IWM",
+        "XLV",
+        "AMD",
+        "SOXX",
+        "NVDA",
+        "ASML",
+        "LULU",
+        "RSG",
+        "WM",
+        "CRM",
+        "UNH",
+        "AVGO",
+        "ENB"
+    ]
+}
